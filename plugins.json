@@ -1,0 +1,59 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=111.90.159.132&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/BholeyKaBhakt/cs-darkdemon-extensions",
+        "fileSize": 11429,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "darkdemon"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "OnlineMoviesHinditProvider",
+        "url": "https://raw.githubusercontent.com/BholeyKaBhakt/cs-darkdemon-extensions/builds/OnlineMoviesHinditProvider.cs3",
+        "name": "OnlineMoviesHinditProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=prmovies.homes&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/BholeyKaBhakt/cs-darkdemon-extensions",
+        "fileSize": 13957,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "darkdemon"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PrmoviesProvider",
+        "url": "https://raw.githubusercontent.com/BholeyKaBhakt/cs-darkdemon-extensions/builds/PrmoviesProvider.cs3",
+        "name": "PrmoviesProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=streamblasters.lol&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/BholeyKaBhakt/cs-darkdemon-extensions",
+        "fileSize": 14649,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "darkdemon"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "StreamBlastersProvider",
+        "url": "https://raw.githubusercontent.com/BholeyKaBhakt/cs-darkdemon-extensions/builds/StreamBlastersProvider.cs3",
+        "name": "StreamBlastersProvider"
+    }
+]
